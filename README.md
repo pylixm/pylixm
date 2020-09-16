@@ -4,7 +4,7 @@
 
 - 🌱 Open source fancier in Python, Go, JavaScript, etc.
 - 🏠 Homepage at [pylixm.cc](https://pylixm.cc).
-- 💬 My [resume](https://pylixm.cc/resume) .
+- 💬 My [resume](https://pylixm.cc/about).
 
 
 <!--
