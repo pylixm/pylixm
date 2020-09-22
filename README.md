@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=pylixm&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
 - 🌱 Open source fancier in Python, Go, JavaScript, etc.
-- 🏠 Homepage at [pylixm.cc](https://pylixm.cc).
+- 🏠 Homepage at [pylixm.top](https://pylixm.top).
 - 💬 My [resume](https://pylixm.cc/about).
 
 
